@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000748/prd/nvtyd73kvqfgu2hyigov" group-title="𝐈𝐂𝐂",MT20: Ireland v Oman
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=00d05898-151a-474d-9bb1-d017cc5e7628&hdnts=st=1771045863~exp=1771045903~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e1aa8275c7f11d9988d9858ff1499664dd0af9d5689dc9ce571ff2cc396ee4ac&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000754/prd/qqysnowobduyzdwutpmo" group-title="𝐈𝐂𝐂",MT20: Ireland v Oman (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8e17b45b-f008-4218-bcc0-23a7087fb489&hdnts=st=1771045868~exp=1771045908~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=0ccad17c6f6d82c46b7f1a742a3fdd50640e98ed758f04244bd4c87ec9fc8a19&hdcore=2.11.3
