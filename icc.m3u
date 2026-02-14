@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000748/prd/nvtyd73kvqfgu2hyigov" group-title="𝐈𝐂𝐂",MT20: Ireland v Oman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=00d05898-151a-474d-9bb1-d017cc5e7628&hdnts=st=1771051932~exp=1771051972~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=8646f785ad026bb9a1579787531536937e4e20fe70f378f83371ef68c84b935b&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=00d05898-151a-474d-9bb1-d017cc5e7628&hdnts=st=1771058270~exp=1771058310~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=954f47d6b8d2bd9150553008c6e40055762efc4b715180cb147d07a6409ef674&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000754/prd/qqysnowobduyzdwutpmo" group-title="𝐈𝐂𝐂",MT20: Ireland v Oman (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8e17b45b-f008-4218-bcc0-23a7087fb489&hdnts=st=1771051937~exp=1771051977~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=aeaf5af35ffac098239ef7f0f13d20fbabd5dac50a6d2bf33c56891f418371bb&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8e17b45b-f008-4218-bcc0-23a7087fb489&hdnts=st=1771058275~exp=1771058315~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=6684ab26e30fea8cbe8fd39f47b16e6f673fe9c70b31c5dc014af9a79a73e024&hdcore=2.11.3
