@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093490/prd/cegltgfgrqcynzxm9jq4" group-title="𝐈𝐂𝐂",MT20: West Indies v Nepal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=55ba5fef-b46f-494b-b752-abf18d53ef13&hdnts=st=1771132829~exp=1771132869~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=0301f42d872e05c89e37bebc0e15a27262c0dcccb059ea2690c3d601f8778936&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093485/prd/bsa12ya6swqccazylqjw" group-title="𝐈𝐂𝐂",MT20: West Indies v Nepal (NEPALI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=56b54d46-c4f7-430c-8749-053b3d9aeaee&hdnts=st=1771132834~exp=1771132874~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e1fac731e578c8194f137e0eb8ec0de39a15c18d7d4f4d5df0936c9499e374ae&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093513/prd/xpjxgwjlfviqjnfjmp78" group-title="𝐈𝐂𝐂",MT20: West Indies v Nepal (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=5c4fadc9-7d0f-485f-882b-895ebec2ff57&hdnts=st=1771132837~exp=1771132877~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=5eba32a47df899961c7422e157e9c34a6d0690450d5174a239591a897c63f815&hdcore=2.11.3
