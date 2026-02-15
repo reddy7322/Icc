@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093490/prd/cegltgfgrqcynzxm9jq4" group-title="𝐈𝐂𝐂",MT20: West Indies v Nepal
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093519/prd/obhnxthsnkcku8dbluda" group-title="𝐈𝐂𝐂",MT20: USA v Namibia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=55ba5fef-b46f-494b-b752-abf18d53ef13&hdnts=st=1771144708~exp=1771144748~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=40e5febab6d1b6112c5f2affb6969794bd3ebf886ee6176b695deba253c3f9ac&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093485/prd/bsa12ya6swqccazylqjw" group-title="𝐈𝐂𝐂",MT20: West Indies v Nepal (NEPALI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=e2635061-2c66-45e6-8118-0f6726c46889&hdnts=st=1771151470~exp=1771151510~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3e5e13980bf48d40544f306b61887b346cf706ef82973e6bfe0d64c18b59ec1c&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093508/prd/yowep9cm8z2c5w2yhsic" group-title="𝐈𝐂𝐂",MT20: USA v Namibia (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=56b54d46-c4f7-430c-8749-053b3d9aeaee&hdnts=st=1771144712~exp=1771144752~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=f956b7819ddd9e720e18fcbcdbe49148ad8e8e936155286439d8a79ac1cafacd&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093513/prd/xpjxgwjlfviqjnfjmp78" group-title="𝐈𝐂𝐂",MT20: West Indies v Nepal (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=5c4fadc9-7d0f-485f-882b-895ebec2ff57&hdnts=st=1771144716~exp=1771144756~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=7e8a9831677034e1bb0273731218be4c339f160bc316ab190dceec0a9b3d5905&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afabd48c-0d76-4386-8407-2ab1432a3ba1&hdnts=st=1771151475~exp=1771151515~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=6e50ef0921ef3fdb1a2bcb68d24bbd22249714544daa45c870e793d92bbdaabf&hdcore=2.11.3
