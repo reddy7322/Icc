@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/yvlnxytvyspr879jsh8m" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v Australia
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170664/prd/m3mk5nyur4xvdg86xrkr" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8297833e-2d8a-4bca-9233-8727bd614e56&hdnts=st=1771253112~exp=1771253152~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=07d49cee15b7447787accbc432e3b0dca7314a63ed61a56e19594bf63a3c7cfc&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8297833e-2d8a-4bca-9233-8727bd614e56&hdnts=st=1771260677~exp=1771260717~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=4065d90697a9fcc0ecdbf2c717411b13cfbb01d63aba5658c019c279f8a4bb4c&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170676/prd/nqzwucdlzqkodlhh051l" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v Australia (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=d04dc68d-2da0-4fc0-a857-f44da8fc02d4&hdnts=st=1771253117~exp=1771253157~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=22f8d900e6d6e3a68ebc751b3b3a297a3f9c21555f53a548e40fbffa81a66a5f&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=d04dc68d-2da0-4fc0-a857-f44da8fc02d4&hdnts=st=1771260681~exp=1771260721~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e46437fadaea94386c7e158eddd28f94e857993d851517437b37509e5a98f317&hdcore=2.11.3
