@@ -2,8 +2,16 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170658/prd/baeljyostkzzmruk0ii2" group-title="𝐈𝐂𝐂",MT20: England v Italy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=16a37557-bcdb-4c2c-a261-4035faec847e&hdnts=st=1771239240~exp=1771239280~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3fb0c504229ee854478fd8d0372ccf801a2d4589fcfb0eb9b10a089e76737da1&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=16a37557-bcdb-4c2c-a261-4035faec847e&hdnts=st=1771247537~exp=1771247577~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=54128bf0f8dabc7ef6d952506c56f4844d6972f435637032327e0452d446e50a&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170652/prd/zbidzwyhkb5muuahjzrx" group-title="𝐈𝐂𝐂",MT20: England v Italy (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afe3df75-f192-4276-aa9d-05ff6d5940bb&hdnts=st=1771239246~exp=1771239286~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=6325b53f5aa69880ace59fafc9cf2ee2c3111d322471f6c21f35d7be31dbea16&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afe3df75-f192-4276-aa9d-05ff6d5940bb&hdnts=st=1771247543~exp=1771247583~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2bd53197a15a8c037223995d0defed36a0ca46bc2286e9fa08763ce5e2b6836a&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/yvlnxytvyspr879jsh8m" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8297833e-2d8a-4bca-9233-8727bd614e56&hdnts=st=1771247547~exp=1771247587~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=7a02dd96fb46f05f4636e0914d64f191fce547fff83aa4f16cf1cc1c529f8950&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170676/prd/nqzwucdlzqkodlhh051l" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v Australia (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=d04dc68d-2da0-4fc0-a857-f44da8fc02d4&hdnts=st=1771247551~exp=1771247591~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=cd92ba7542e88172109e2d09cde7a8502d6ec0ea6a420466f5db274abadea363&hdcore=2.11.3
