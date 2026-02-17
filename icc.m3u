@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/gjsxvgl52rcabgnepzh6" group-title="𝐈𝐂𝐂",MT20: New Zealand v Canada
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=7523d057-cc41-4004-ad43-abd2d9606c1e&hdnts=st=1771305779~exp=1771305819~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3d21a56c3f55bde9da2dd7efcba6cfdc3b72016627bc17805cc81cdccbdcb27e&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/bypmcnumrfeikn3iykhy" group-title="𝐈𝐂𝐂",MT20: New Zealand v Canada (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=699ade02-f82d-4cce-9f75-85eb57e5a884&hdnts=st=1771305783~exp=1771305823~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a9965dcbc0f9c26a5825ac1dc745bc91f7c5662a138abe0b735b4d9f9cb622f7&hdcore=2.11.3
