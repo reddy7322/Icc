@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309069/prd/ehwwrsrs82c9bdqgxvx4" group-title="𝐈𝐂𝐂",MT20: New Zealand v Canada
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309225/prd/h2ftb60k0lit1yrdhsec" group-title="𝐈𝐂𝐂",MT20: Ireland v Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=7523d057-cc41-4004-ad43-abd2d9606c1e&hdnts=st=1771311846~exp=1771311886~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=6f966da2e0819874c3fe05ecbf8f617b659fbd7198e5bdd15596161af4e4e556&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309073/prd/ozgqkv3dz43avmjvc3fb" group-title="𝐈𝐂𝐂",MT20: New Zealand v Canada (HINDI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=8a569f04-1a2b-4b16-9063-afe157d54e8d&hdnts=st=1771318346~exp=1771318386~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=0548f067fb5745dd6220dede00fd2e7357295d67152be0fe9127dfa31a3f8c73&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309244/prd/kpud3biewea18daerez0" group-title="𝐈𝐂𝐂",MT20: Ireland v Zimbabwe (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=699ade02-f82d-4cce-9f75-85eb57e5a884&hdnts=st=1771311850~exp=1771311890~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=90671965f53431ae53ac2f7a51a0ddc093710dd06b460cb63a1d97958070b774&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=d70153f9-17f4-4773-9e8a-51761da0d56d&hdnts=st=1771318351~exp=1771318391~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a13b7fab463c2eb59e48f90f9b406b63d37de6e3e1389159e34e5bbc8c490c87&hdcore=2.11.3
