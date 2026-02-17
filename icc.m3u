@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309225/prd/h2ftb60k0lit1yrdhsec" group-title="𝐈𝐂𝐂",MT20: Ireland v Zimbabwe
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309239/prd/tresjxmq4agwobm1m2am" group-title="𝐈𝐂𝐂",MT20: Scotland v Nepal (NEPALI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=8a569f04-1a2b-4b16-9063-afe157d54e8d&hdnts=st=1771325472~exp=1771325512~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=ad5a63d187b0949bb96297d6b7d7c572de61e9832a065dd55160386d4e6b186d&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309244/prd/kpud3biewea18daerez0" group-title="𝐈𝐂𝐂",MT20: Ireland v Zimbabwe (HINDI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771333939~exp=1771333979~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=6259f327c6c8b4f146ef309b0b293543f876eb5fc68e033383f798feafe5bd2f&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309229/prd/lqalxtynbouz7vd6f3nc" group-title="𝐈𝐂𝐂",MT20: Scotland v Nepal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=d70153f9-17f4-4773-9e8a-51761da0d56d&hdnts=st=1771325476~exp=1771325516~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=bb2019ac705e8eef1b985ea42b842436be56894d6ad8ea04e2df0d089b6e29b9&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771333944~exp=1771333984~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=43d440e1ea97ff04582c870dedfe6340536190a28677cba1f07fa33d9c795af7&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309248/prd/mxcq1ucrmrwclq3oxn1u" group-title="𝐈𝐂𝐂",MT20: Scotland v Nepal (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=bea0d032-30dc-48ea-bb63-b432b97b7c69&hdnts=st=1771333947~exp=1771333987~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=92a1bcde030541ca0702eefffbb56f84f299660359d52c6861dd61a171d36b90&hdcore=2.11.3
