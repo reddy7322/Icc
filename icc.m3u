@@ -2,12 +2,8 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309239/prd/tresjxmq4agwobm1m2am" group-title="𝐈𝐂𝐂",MT20: Scotland v Nepal (NEPALI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771339876~exp=1771339916~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=ac6780b8693e2d4800977d3d009faa499ce1c895c5f50afcd8c9f905856325f4&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771347685~exp=1771347725~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2390ddf5a4e93cafe84e8efd7799b7cdddb26f093a18b161b098aa07feedf388&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309229/prd/lqalxtynbouz7vd6f3nc" group-title="𝐈𝐂𝐂",MT20: Scotland v Nepal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771339881~exp=1771339921~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2bf0b316826a0691b4d998029d38d288ee1febc7d6583492bfe293b184a02329&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309248/prd/mxcq1ucrmrwclq3oxn1u" group-title="𝐈𝐂𝐂",MT20: Scotland v Nepal (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=bea0d032-30dc-48ea-bb63-b432b97b7c69&hdnts=st=1771339885~exp=1771339925~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=703c47bb6c6a67def4963dcc773d73bc7fd086355d007583912df8c59eef9ba0&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771347690~exp=1771347730~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=f8c3294e214d00487f40a24a17ee72d05a7a5c33599de73cbf940301411890ab&hdcore=2.11.3
