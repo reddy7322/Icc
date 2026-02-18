@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346118/prd/i8nu4jjk4he3wuycb93u" group-title="𝐈𝐂𝐂",MT20: India v Netherlands
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=899f7d05-26cd-4dfb-af9c-607520d8ebcf&hdnts=st=1771420409~exp=1771420449~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2e95fbafababffdee70a330bc924ae4c8f62145b1c4c45d8b7671cb3e279fc08&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=899f7d05-26cd-4dfb-af9c-607520d8ebcf&hdnts=st=1771426218~exp=1771426258~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=972109901a2725720793be352c7e3aa1b50507b7b85b23f245d452ba58886d2c&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346142/prd/lvxqtrmeydales13mrne" group-title="𝐈𝐂𝐂",MT20: India v Netherlands (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=0144e653-1dd0-41d4-8af8-b32b2db0ea09&hdnts=st=1771420414~exp=1771420454~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=dfc7d91784767e945c747216e15cb93a1e7ceeba05b2cf7c6c07b9f496bce5ea&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=0144e653-1dd0-41d4-8af8-b32b2db0ea09&hdnts=st=1771426223~exp=1771426263~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=998d82b7c1fe57c534fb7e637e2d80f0356bd7998a73144ab3cecc82e151d2c1&hdcore=2.11.3
