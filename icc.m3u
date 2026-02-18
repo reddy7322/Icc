@@ -2,8 +2,20 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346167/prd/g5ddk4zwa87ev5xq5rac" group-title="𝐈𝐂𝐂",MT20: South Africa v United Arab Emirates
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=b29aa4d4-feab-4602-9dec-5ff228438347&hdnts=st=1771398372~exp=1771398412~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=262f6e7cae700e8ceef234afc902fad0c94cd32ca9f5c7d86a523544d55c833c&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=b29aa4d4-feab-4602-9dec-5ff228438347&hdnts=st=1771404746~exp=1771404786~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2d133d0c5e557d3df3461037010b8721a76c6bb15f685593e7898c7ef3bfb28d&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346132/prd/ppkpgwgodz8ins3vy1ea" group-title="𝐈𝐂𝐂",MT20: South Africa v United Arab Emirates (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8cbfbbe2-af70-42f3-9c43-34462bab9a20&hdnts=st=1771398376~exp=1771398416~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=310dcf6e3e838b7ca89e1ff7a69f41bb9df0814dd4f92a6467f7b452b352c6ac&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8cbfbbe2-af70-42f3-9c43-34462bab9a20&hdnts=st=1771404751~exp=1771404791~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=aed8ff3f57bd65f8322d34f400b9aa1241126ee3441fbc66c76be09e049032b6&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346165/prd/mateyaxsty9m97eygkrq" group-title="𝐈𝐂𝐂",MT20: Pakistan v Namibia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=ef0da75e-1994-46d1-8b36-57e6d21913f1&hdnts=st=1771404754~exp=1771404794~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=05027ca3377ab56e3c73e61227b032453701c5cab56c1e542cf356f2fdbb7f69&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346145/prd/akdokwjnnvwy98ehyj5x" group-title="𝐈𝐂𝐂",MT20: Pakistan v Namibia (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=9f62492d-f79d-4703-9c16-0a62b35b34ab&hdnts=st=1771404758~exp=1771404798~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=dedcc46762ba11fde1b0074b1e029510b63122ebbbb056946dbe8619696935d6&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346127/prd/tb40cecu1j0uljjujvwv" group-title="𝐈𝐂𝐂",MT20: Pakistan v Namibia (URDU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=ec6ac439-851b-4ee8-8094-a9c856d15043&hdnts=st=1771404762~exp=1771404802~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=d293615bdad160dd9c8d93a18aaea9aae82931263f9018bb0e6de38648aa8b62&hdcore=2.11.3
