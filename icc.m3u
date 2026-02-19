@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170669/prd/dgghifcoo6jhu3d2fwok" group-title="𝐈𝐂𝐂",MT20: Afghanistan v Canada
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=6d1f00ae-027a-4654-a821-029b83591558&hdnts=st=1771520304~exp=1771520344~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=28f5eb8d1b828006526486b5ab441c06b44606367dabdd4b28ec596915af17e2&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170661/prd/phkuiqlu3fvehhrj3rdu" group-title="𝐈𝐂𝐂",MT20: Afghanistan v Canada (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=4299c780-ee58-4d28-8212-81e9026075cd&hdnts=st=1771520309~exp=1771520349~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=277c4059b0d6b9a5876b0b3c53afd340a00d69d39c835471c9c06e46f88b2495&hdcore=2.11.3
