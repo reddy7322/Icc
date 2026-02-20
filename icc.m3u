@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771434749/prd/yhhnvpjl2doddl6jkof3" group-title="𝐈𝐂𝐂",MT20: Australia v Oman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-None
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=e25f2544-696a-42fa-93dc-24796d39121d&hdnts=st=1771598509~exp=1771598549~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=b6d4b8996159462fda088631d2684a626eafbd3dbe9e3b294949a70218d668e5&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771434745/prd/gdiddstrlsptfqjusr1r" group-title="𝐈𝐂𝐂",MT20: Australia v Oman (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=b6594a0e-f4f8-4350-949d-e0c8d1bc940c&hdnts=st=1771592820~exp=1771592860~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=68b5800ecfcf7de2c75a6ac7043732611f7e90021875b2d79cd7193a786a827a&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=b6594a0e-f4f8-4350-949d-e0c8d1bc940c&hdnts=st=1771598514~exp=1771598554~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e48b4541639e8c3393f5ea4e384ec7e3f4fbe7cfe670c25485b8684c37c1a7d0&hdcore=2.11.3
