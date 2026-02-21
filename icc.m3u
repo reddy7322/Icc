@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/n3gazbdjr2gth4jnmkl7" group-title="𝐈𝐂𝐂",MT20: New Zealand v Pakistan (URDU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=5c897bb5-0073-414b-abfe-9b9838142a98&hdnts=st=1771678578~exp=1771678618~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=5f93064ef602ee98926da1a4491ebfcd3038d0001776a7879e2aefbb03ca7c78&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/i9n1jyf7tpaux2hpouoi" group-title="𝐈𝐂𝐂",MT20: New Zealand v Pakistan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=2428f68a-1abc-4ad8-b6ef-fc55016d262e&hdnts=st=1771678583~exp=1771678623~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=8e3ccc1764c0e0f352ca29694848f29e721567b0aef7bdcc964cf69daec1c89d&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/obqodux527ycimdvmznp" group-title="𝐈𝐂𝐂",MT20: New Zealand v Pakistan (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=cf66b39e-a3ed-46e3-899d-a67d591dbfdd&hdnts=st=1771678586~exp=1771678626~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=fd39c84631715bccfa1624b2e5ba025961008c1ef68e7da0442ab2dc7c0c2355&hdcore=2.11.3
