@@ -2,12 +2,8 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771915790/prd/f8j2qcfoxzi10s9nqhto" group-title="𝐈𝐂𝐂",MT20: England v Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=a0866b41-3416-4429-9b70-6fd839e7d413&hdnts=st=1771944858~exp=1771944898~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=b87aa0ffd4be6af620049ee0cb079637579cb620d12b9649fa9c212fe5b2e614&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771915952/prd/gm3jryixmfzfk4jzofjf" group-title="𝐈𝐂𝐂",MT20: England v Pakistan (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=b781a549-54ee-4c8d-9994-24dd73093831&hdnts=st=1771944863~exp=1771944903~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=8807e5b9b17a91d46822c75b1a65ec6d8bd8c3b2afa424a9076d20041441c5a3&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=a0866b41-3416-4429-9b70-6fd839e7d413&hdnts=st=1771952946~exp=1771952986~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=4a2622410fdf01abdfe83e70dac5b419290946b53a2870cdba37eafd60d95d16&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771915891/prd/ouvjdl795iylqr37alwj" group-title="𝐈𝐂𝐂",MT20: England v Pakistan (URDU)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=251bc804-4b10-4da3-96ae-629167ec8dc6&hdnts=st=1771944866~exp=1771944906~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=45ed372fcae58b777ef0fabd65b359834cd05a32872ff84a053d6cd5a3406a2b&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=251bc804-4b10-4da3-96ae-629167ec8dc6&hdnts=st=1771952950~exp=1771952990~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=018fc374ded5431bb87c2b35b2d487abcd4346ecec5a7e5b9d33761c3eca7966&hdcore=2.11.3
