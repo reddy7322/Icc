@@ -2,8 +2,4 @@
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772011147/prd/eihjzfxvbt18lcxcxhmv" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v New Zealand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=c12ca4a6-ef65-4699-9a09-5e48a34eea0c&hdnts=st=1772031243~exp=1772031283~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=53b4151e0e723f2d3a6721f6758bf70137c0fb3cb3fd2753f0211a1fa28ee888&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772011083/prd/xvxe6iacoon23xtfkk3p" group-title="𝐈𝐂𝐂",MT20: Sri Lanka v New Zealand (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=488d8834-acd0-4e57-af02-18a760a9d58b&hdnts=st=1772031247~exp=1772031287~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=58df18a63705d8701ceb2baa4d5d90b83aad3f8a04ad0141da5278fadfc4ecea&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=c12ca4a6-ef65-4699-9a09-5e48a34eea0c&hdnts=st=1772039484~exp=1772039524~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=998169191ca9bd04f869242d13969dcb06e691cff9553db81d942aec2f8e5bac&hdcore=2.11.3
