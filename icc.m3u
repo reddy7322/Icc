@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772346080/prd/xm9rzhi1sfxptvoufshk" group-title="𝐈𝐂𝐂",MT20: Zimbabwe v South Africa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=e6f0e247-a6be-40d3-bbdd-2e1e5e002653&hdnts=st=1772369784~exp=1772369824~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=374205d67f4f0e90511315f92ff3e7526e38c23d847a6487320d01346cc045f2&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772356531/prd/jgb3kvz6ebrgkurhvfxq" group-title="𝐈𝐂𝐂",MT20: Zimbabwe v South Africa (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=eefff9f9-2f16-44e7-a9a9-ba0d821d5a89&hdnts=st=1772369788~exp=1772369828~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=944a886f21cb3025809e17225cba601177828547eac2726c1e91eb76787caa2b&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772346319/prd/vrirtzeihnejax9itap0" group-title="𝐈𝐂𝐂",MT20: India v West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=50b77e1a-2229-4200-a883-7d2068d938ae&hdnts=st=1772369791~exp=1772369831~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2d499b8212747dd959d46aec4c76f1bee7f2815df8c5ab58a2ea2db13eae3a26&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=50b77e1a-2229-4200-a883-7d2068d938ae&hdnts=st=1772375262~exp=1772375302~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c4aa284062a15832977532025a6a75c0476c563d733c6b24146eb4d74a9a587a&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/htlrvfgjxttqmjsbulqa" group-title="𝐈𝐂𝐂",MT20: India v West Indies (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=f2d8f864-a269-448f-afa7-174a0c5005ff&hdnts=st=1772369794~exp=1772369834~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c8bf81617cd226e8141fd91bb1343004d2df241550ca8223894f8f158a1b6ee4&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=f2d8f864-a269-448f-afa7-174a0c5005ff&hdnts=st=1772375266~exp=1772375306~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2290d48c05c4d11ca21135324d2f19cea5bd339894ed9b91e74847f842d889dd&hdcore=2.11.3
