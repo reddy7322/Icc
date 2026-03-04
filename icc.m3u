@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772616018/prd/sfwueddhtgajrrusjqsq" group-title="𝐈𝐂𝐂",MT20: Semi-Final 1: South Africa v New Zealand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=212ca701-2ca0-475d-8196-fa3aaace3f89&hdnts=st=1772635174~exp=1772635214~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=eb130115ba85359afa4f9a7abd27817dfd8d9833913d64f1c20b947cc33e46f0&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772616088/prd/gkeadtjznjyt1qwlhlku" group-title="𝐈𝐂𝐂",MT20: Semi-Final 1: South Africa v New Zealand (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=306d8289-c426-4fae-8e30-715808eda935&hdnts=st=1772635178~exp=1772635218~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=75476ba18fc89e2d868d98d8dc5c5d0d1ece8184f3f8d0c98a0cedf52b5f7cb0&hdcore=2.11.3
