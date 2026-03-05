@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772701217/prd/pyiowhurspxeasy7j0rh" group-title="𝐈𝐂𝐂",MT20: Semi-Final 2: India v England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=6c25bf85-3fac-48ed-91c3-97a316084d75&hdnts=st=1772722247~exp=1772722287~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c3de3e0d559f8f53c099ae4d2b61da1e51406cd4fd8ed4cf896d1ca11089236a&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772701299/prd/b8vwpo1s2fdmpxg9ekks" group-title="𝐈𝐂𝐂",MT20: Semi-Final 2: India v England (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=db525874-eb08-4e0f-aa52-7df752196d0c&hdnts=st=1772722250~exp=1772722290~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=8f4798d6068b08213c0de605aec634e6ea915f1dcf3ad55bdfd21e332464e5fd&hdcore=2.11.3
